@@ -99,7 +99,7 @@ Comparison Table
 **Visuals:**  
 
 Decision Tree  
-![Decision Tree](decission_tree_structure.png)  
+![Decision Tree](decision_tree_structure.png)  
 
 Feature Importance  
 ![Feature Importance](visuals/features_d_tree.png)  
@@ -121,10 +121,10 @@ Feature Importance
 **Visuals:**  
 
 Confusion Matrices  
-![Confusion Matrices](visuals/multiclass_comparison.png.png)  
+![Confusion Matrices](visuals/multiclass_comparison.png)  
 
 Accuracy Comparison  
-![Accuracy Comparison](visuals/model_acc_comparison.png.png)  
+![Accuracy Comparison](visuals/model_acc_comparison.png)  
 
 ---
 
