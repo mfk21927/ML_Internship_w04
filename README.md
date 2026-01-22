@@ -99,7 +99,7 @@ Comparison Table
 **Visuals:**  
 
 Decision Tree  
-![Decision Tree](decision_tree_structure.png)  
+![Decision Tree](visuals/decision_tree_structure.png)  
 
 Feature Importance  
 ![Feature Importance](visuals/features_d_tree.png)  
